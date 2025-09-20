@@ -22,14 +22,13 @@ $ sudo make install
 ```
 $ sudo apt-get install iverilog
 ```
-<img width="702" alt="iverilog" src="https://github.com/sukanyasmeher/sfal-vsd/assets/166566124/e660c9fc-0d6d-4ab7-b75f-9992133771ef">
+<img width="502" height="316" alt="iverilog" src="https://github.com/user-attachments/assets/7573c10b-8a3b-4285-8e1d-01e0a872f265" />
+
 
 ## GTKWave
 ```
 $ sudo apt update
 $ sudo apt install gtkwave
 ```
-<img width="604" alt="gtkwave2" src="https://github.com/sukanyasmeher/sfal-vsd/assets/166566124/843a73bc-20ec-4417-bdc8-883caa6a299b">
+<img width="481" height="43" alt="image" src="https://github.com/user-attachments/assets/b6e5d7a8-b7d4-4471-913d-11aaf4b5e026" />
 
-<img width="1008" alt="gtkwave1" src="https://github.com/sukanyasmeher/sfal-vsd/assets/166566124/1e0c0704-f9a8-4ce4-b364-55a1fb0fc9ca">
-</details>
